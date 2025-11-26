@@ -16,7 +16,7 @@
 
 ## 🧩 Sobre o Projeto
 Este projeto consiste em um sistema simples de gerenciamento de pessoas utilizando **Java** e conceitos fundamentais de **Programação Orientada a Objetos (POO)**.
-Ele simula um **banco de dados** em memória, permitindo que o usuário execute operações de cadastro, listagem, edição e busca de registros diretamente pelo console.
+Ele simula um **banco de dados** em memória, permitindo que o usuário execute operações de cadastro, listagem e busca de registros diretamente pelo console.
 
 ---
 
