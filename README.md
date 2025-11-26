@@ -69,3 +69,42 @@ Classe principal que inicia o programa chamando o menu.
 1. Abra um terminal na pasta do projeto.
 2. Compile todos os arquivos
 3. Execute a aplicação: ListaMain.java
+
+**🕹️ Exemplo de Execução**
+
+--- MENU ---
+1 - Adicionar pessoa
+2 - Buscar por ID
+3 - Buscar por parte do nome
+4 - Listar todos
+5 - Sair
+Escolha: 1
+Nome: Mariana
+Pessoa adicionada!
+
+--- MENU ---
+1 - Adicionar pessoa
+2 - Buscar por ID
+3 - Buscar por parte do nome
+4 - Listar todos
+5 - Sair
+Escolha: 4
+ID: 1 | Nome: Yula
+ID: 2 | Nome: Daniel
+ID: 3 | Nome: Mariana
+ID: 4 | Nome: Victor
+
+--- MENU ---
+1 - Adicionar pessoa
+2 - Buscar por ID
+3 - Buscar por parte do nome
+4 - Listar todos
+5 - Sair
+Escolha: 5
+Encerrando o programa...
+
+--- LISTA FINAL ---
+ID: 1 | Nome: Yula
+ID: 2 | Nome: Daniel
+ID: 3 | Nome: Mariana
+ID: 4 | Nome: Victor
