@@ -80,7 +80,7 @@ Classe principal que inicia o programa chamando o menu.
 Escolha: 1
 Nome: Mariana
 Pessoa adicionada!
----
+
 --- MENU ---
 1 - Adicionar pessoa
 2 - Buscar por ID
@@ -92,7 +92,7 @@ ID: 1 | Nome: Yula
 ID: 2 | Nome: Daniel
 ID: 3 | Nome: Mariana
 ID: 4 | Nome: Victor
----
+
 --- MENU ---
 1 - Adicionar pessoa
 2 - Buscar por ID
@@ -101,7 +101,7 @@ ID: 4 | Nome: Victor
 5 - Sair
 Escolha: 5
 Encerrando o programa...
----
+
 --- LISTA FINAL ---
 ID: 1 | Nome: Yula
 ID: 2 | Nome: Daniel
