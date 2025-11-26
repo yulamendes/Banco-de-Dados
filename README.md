@@ -26,8 +26,7 @@ O sistema oferece as seguintes operações:
 
 - **Cadastrar pessoa**  
 - **Listar pessoas cadastradas**  
-- **Buscar pessoa pelo ID ou Nome**  
-- **Editar dados de uma pessoa**   
+- **Buscar pessoa pelo ID ou por parte do nome**    
 - **Sair da aplicação**
 
 ---
